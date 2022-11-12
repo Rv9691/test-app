@@ -1,0 +1,16 @@
+{
+  "title": "Light, fast & responsive",
+  "text": "This word has two main meanings. The first has to do with being pleased and satisfied (feeling content) or making someone else feel happy and at peace with things (contenting them).",
+  "section": [
+    {
+      "title": "Why Antd?",
+      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Why styled-components?",
+      "content": "Styled Components gives you total control over your components.",
+      "icon": "notes.svg"
+    }
+  ]
+}
